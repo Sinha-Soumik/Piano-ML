@@ -1,0 +1,13 @@
+*.mp3
+*.mid
+*.jpg
+*.txt
+*.pt
+
+!requirements.txt
+!/ml/model.pt
+!*/audio/*
+
+__pycache__
+data
+results
